@@ -8,9 +8,9 @@ pip install -r 'requirements.txt'
 python manage.py runserver
 ```
 
-#Steps to run forntend
+#Steps to run frontend
 ```bash
-go to forntend folder
+go to frontend folder
 sudo npm install
 sudo npm start
 go to localhost 3000
