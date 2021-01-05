@@ -8,7 +8,7 @@ pip install -r 'requirements.txt'
 python manage.py runserver
 ```
 
-#Steps to run backend
+#Steps to run forntend
 ```bash
 go to forntend folder
 sudo npm install
